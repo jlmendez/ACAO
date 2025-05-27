@@ -1,0 +1,9 @@
+requirements_content = """numpy
+pandas
+matplotlib
+scipy
+obspy
+seaborn
+scikit-learn
+colorama
+"""
